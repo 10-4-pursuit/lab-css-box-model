@@ -121,5 +121,7 @@ cypress/screenshots
 
 # other artifacts
 .DS_Store
+/class practice
+
 
 

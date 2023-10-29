@@ -1,0 +1,117 @@
+p {
+  font-family: sans-serif;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: serif;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #4242ea;
+}
+
+ul {
+  list-style: none;
+}
+
+
+
+span {
+  font-weight: 700;
+
+}
+
+li {
+  text-align: left;
+  padding-bottom: 10px
+}
+
+footer div {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding: 16px
+  width: 14px;
+}
+
+
+.weather p {
+  font-size: 40px;  
+}
+
+.weather {
+  width: 300px;
+  display: inline-block;
+  text-align: center;
+  border: 2px solid gray;
+  position: absolute;
+ 
+}
+
+above-the-fold article {
+  display: inline-block;
+  padding-top: 30px;
+
+}
+
+.breaking-news {
+  padding: 0px 30px;
+  text-align: center;
+  margin-left: 250px;
+}
+
+.breaking-news p {
+  text-align: left;
+  margin-left: 100px;
+}
+
+.breaking-news img {
+  width: 200px;
+}
+
+.click-bait article{
+  display: inline-block;
+  width: 400px;
+  height: auto;
+  margin: 16px;
+  padding: 1rem;
+  box-sizing: border-box;
+  text-align: center
+  
+}
+
+.below-the-fold article{
+  display:flex;
+  text-align: center;
+  
+}
+
+.below-the-fold img {
+    display: inline-block;
+    margin: 16px;
+    padding: 1rem;
+    width: 200px;
+}
+
+.below-the-fold div {
+    width: 500px;
+    text-align: left;
+    display: inline-block;
+    padding-left:40px;
+    
+}
+
+.below-the-fold p {
+  width: 900px;
+}
+
+.below-the-fold h2 {
+ color: pink;
+}

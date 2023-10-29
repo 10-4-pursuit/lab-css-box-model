@@ -16,13 +16,22 @@ footer div {
     text-align: center;
 }
 
+footer li {
+    padding-top: 10px;
+}
+
 ul {
     display: inline-block;
+    width: 250px;
     list-style: none;
 }
 
 span {
     font-weight: 700;
+}
+
+section.above-the-fold {
+    text-align: center;
 }
 
 .weather p{
@@ -38,7 +47,7 @@ span {
 
 article.breaking-news {
     display: inline-block;
-    width: 60%;
+    width: 30%;
 }
 
 .breaking-news {
@@ -50,8 +59,13 @@ article.breaking-news {
     width: 200px;
 }
 
+section.click-bait {
+    text-align: center;
+}
+
 .click-bait article {
     display: inline-block;
+    text-align: center;
     width: 250px;
     margin: 16px;
     padding: 16px;

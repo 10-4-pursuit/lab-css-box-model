@@ -4,16 +4,18 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="main.css" />
+    <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" href="bonus-main.css" />
     <title>Pursuit Times</title>
   </head>
   <body>
     <div>
-      <h1>Pursuit Times</h1>
-      <hr />
+      <h1 class="header">Pursuit Times</h1>
+      
       <main>
-        <section class="above-the-fold">
+     
+     <section class="above-the-fold">
+      <div class="weather-box">
           <article class="weather">
             <div>
               <h3>Weather</h3>
@@ -21,6 +23,9 @@
               <p>73℉</p>
             </div>
           </article>
+      </div>
+      <div class="columns">
+        <div class= "column">
           <article class="breaking-news">
             <img src="./assets/css_is_awesome.webp" alt="css mug" />
             <h2>Breaking News: 80% of Students Enjoy CSS</h2>
@@ -36,12 +41,14 @@
               amet augue.
             </p>
           </article>
-          <hr />
-        </section>
+        </div>
+      
+       
         <section class="click-bait">
-          <article>
-            <h4>What is Lorem Ipsum?</h4>
-            <p>
+          <div class="column">
+           <article>
+             <h4>What is Lorem Ipsum?</h4>
+             <p>
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text
               ever since the 1500s, when an unknown printer took a galley of
@@ -49,6 +56,8 @@
             </p>
             <p><a href="https://www.lipsum.com">More info</a></p>
           </article>
+          </div>
+          <div class="columns">
           <article>
             <h4>Center a Div with this One Weird Trick</h4>
             <p>
@@ -59,7 +68,9 @@
               squirty cheese cheese strings swiss.
             </p>
           </article>
-          <article>
+          </div>
+         <div class="column">
+           <article>
             <h4>Students Share Top Hacks!</h4>
             <ol start="10" reversed>
               <li>Taking proper breaks</li>
@@ -67,9 +78,11 @@
               <li>Focusing on quality over quantity</li>
               <li>Making time to connect with classmates</li>
               <p><a href="#">Click for the rest of the list</a></p>
-            </ol>
+             </ol>
           </article>
+          </div>
         </section>
+        </div>
         <hr />
         <section class="below-the-fold">
           <article>
@@ -90,11 +103,13 @@
                 lollipop apple pie powder pastry lemon drops.
               </p>
             </div>
-          </article>
-        </section>
-      </main>
-      <hr />
-      <footer>
+           </article>
+         </section>
+        </div>
+      </div>
+      <hr/>
+</main>
+      <footer class="footer">
         <h5>Site Map</h5>
         <div>
           <ul>
@@ -114,6 +129,6 @@
           </ul>
         </div>
       </footer>
-    </div>
+    
   </body>
 </html>

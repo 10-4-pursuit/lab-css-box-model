@@ -29,15 +29,24 @@ footer span {
     border: 2px border gray;
     display: inline-block;
     position: absolute;
-    top: 150px;
+    top: 250px;
     right: 15px;
     bottom: 50px;
     left: 50px;
+    text-size-adjust: 40px;
+    text-align: center;
 }
 
+.boarder {
+    border-style: solid;
+    border-width: 1px;
+    width: 150px;
+    height: 150px;
+}
+/* 
 .weather p {
     font-size: 40px;
-}
+} */
 
 .above-the-fold article {
     display: inline-block;
@@ -115,7 +124,6 @@ footer div {
    display: grid;
    grid-template-columns: 500px 500px 500px;
    padding: 10px;
-
 }
 
 

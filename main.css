@@ -33,20 +33,17 @@ footer span {
     right: 15px;
     bottom: 50px;
     left: 50px;
-    text-size-adjust: 40px;
+    font-size: 40px;
     text-align: center;
 }
 
-.boarder {
+.border {
     border-style: solid;
     border-width: 1px;
     width: 150px;
     height: 150px;
 }
-/* 
-.weather p {
-    font-size: 40px;
-} */
+
 
 .above-the-fold article {
     display: inline-block;

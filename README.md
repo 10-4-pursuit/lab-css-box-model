@@ -26,28 +26,28 @@ To complete this lab, you will need to add the following styles. If you're uncle
 }
 ```
 
-- [ ] Set all paragraph text to have a font of `sans-serif`.
-- [ ] Set all heading text to have a font of `serif`.
-- [ ] Set all heading text to be centered.
-- [ ] Set all anchor elements to have no text decoration.
-- [ ] Set all anchor elements to have a color of `#4242EA`.
-- [ ] Set all unordered lists to have no list-style.
-- [ ] Set all `span` elements inside the footer to have a `font-weight` of `700`.
-- [ ] Set all paragraph text inside the element with the class of `weather` to have a font size of `40px`.
-- [ ] Set all articles inside the `.above-the-fold` element to have a `display` value of `inline-block`.
-- [ ] Set the `.weather` element to have a `width` of `300px`.
-- [ ] Set the `.weather` element to have a `2px gray border` on all sides.
-- [ ] Set the `.breaking-news` element to have a top/down padding of `0px` and a left/right padding of `30px`.
-- [ ] Set the image inside of the `.breaking-news` element to have a `width` of `200px`.
-- [ ] Set all articles inside the element with the class of `.click-bait` to have a `display` of `inline-block`.
-- [ ] Set all articles inside the element with the class of `.click-bait` to have a `width` of `250px`.
-- [ ] Set all articles inside the element with the class of `.click-bait` to have `16px` of margin and padding on all sides.
-- [ ] Set all articles inside the element with the class of `.click-bait` to have `box-sizing` set to `border-box`.
-- [ ] Set all articles inside the element with the class of `.below-the-fold` to have a `display` of `inline-block`.
-- [ ] Set the image inside the element with the class of `.below-the-fold` to have a `display` of `inline-block`.
-- [ ] Set the image inside the element with the class of `.below-the-fold` to have `16px` of margin and padding on all sides.
-- [ ] Set the image inside the element with the class of `.below-the-fold` to have a `width` of `200px`.
-- [ ] Set the div inside the element with the class of `.below-the-fold` to have a `width` of `500px`.
+- [ Y ] Set all paragraph text to have a font of `sans-serif`.
+- [ Y ] Set all heading text to have a font of `serif`.
+- [ Y ] Set all heading text to be centered.
+- [ Y ] Set all anchor elements to have no text decoration.
+- [ Y ] Set all anchor elements to have a color of `#4242EA`.
+- [ Y ] Set all unordered lists to have no list-style.
+- [ Y ] Set all `span` elements inside the footer to have a `font-weight` of `700`.
+- [ Y ] Set all paragraph text inside the element with the class of `weather` to have a font size of `40px`.
+- [ Y ] Set all articles inside the `.above-the-fold` element to have a `display` value of `inline-block`.
+- [ Y ] Set the `.weather` element to have a `width` of `300px`.
+- [ Y ] Set the `.weather` element to have a `2px gray border` on all sides.
+- [ Y ] Set the `.breaking-news` element to have a top/down padding of `0px` and a left/right padding of `30px`.
+- [ Y ] Set the image inside of the `.breaking-news` element to have a `width` of `200px`.
+- [ Y ] Set all articles inside the element with the class of `.click-bait` to have a `display` of `inline-block`.
+- [ Y ] Set all articles inside the element with the class of `.click-bait` to have a `width` of `250px`.
+- [ Y ] Set all articles inside the element with the class of `.click-bait` to have `16px` of margin and padding on all sides.
+- [ Y ] Set all articles inside the element with the class of `.click-bait` to have `box-sizing` set to `border-box`.
+- [ Y ] Set all articles inside the element with the class of `.below-the-fold` to have a `display` of `inline-block`.
+- [ Y ] Set the image inside the element with the class of `.below-the-fold` to have a `display` of `inline-block`.
+- [ Y ] Set the image inside the element with the class of `.below-the-fold` to have `16px` of margin and padding on all sides.
+- [ Y ] Set the image inside the element with the class of `.below-the-fold` to have a `width` of `200px`.
+- [ Y ] Set the div inside the element with the class of `.below-the-fold` to have a `width` of `500px`.
 
 Once your complete with the above tasks, your page should look something like the image below.
 
